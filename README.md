@@ -4,7 +4,7 @@ first machine learning project
 first machine learning project
 ### Software and Account Requirements.
 
-[Github Account](https://github.com)
+1. [Github Account](https://github.com)
 
 2. [Heroku Account](https://dashboard.heroku.com/login)
 
