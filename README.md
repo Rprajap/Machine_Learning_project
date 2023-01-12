@@ -14,4 +14,26 @@ first machine learning project
 '''activate conda inviroment'''
 <!-- conda activate venv/ -->
 
+tp add file to git
+<!-- git add . -->
+note :- To ignore file or folder from git we can write file or folder in .gitignore file
+
+to check git status
+
+<!-- git status -->
+
+to check all version maintained by git 
+<!-- git log -->
+
+to create a version /commit will change by git
+<!-- git commit -m "mesage" -->
+
+to semd verson/changes to github 
+<!-- git puss origin main -->
+
+To check remote url
+<!-- git remote -v -->
+
+
+
 
